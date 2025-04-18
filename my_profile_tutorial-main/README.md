@@ -10,7 +10,7 @@ I am a skilled Flutter developer with over 1 year of experience building cross-p
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firestore](https://img.shields.io/badge/firestore-%2307405e.svg?style=for-the-badge&logo=https://img.icons8.com/ios/452/cloud-firestore.png&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsabashir2&theme=dark&hide_border=false&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsabashir2&theme=dark&hide_border=false)
 
 # 🔥 GitHub Streak:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aqsabashir2&theme=dark&hide_border=false)<br/>
